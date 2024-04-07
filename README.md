@@ -1,2 +1,2 @@
-# ML
-This is my note about Machine Learning including jupyter notebook and homework even my project codes.
+# MachineLearning
+Here are Machine Learning notes including jupyter notebook and homework even my project codes.
