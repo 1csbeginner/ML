@@ -1,0 +1,8 @@
+1. Naive Bayes - Precision: 0.7149, Recall: 0.3936, F1: 0.4205
+KNN - Precision: 0.4119, Recall: 0.2114, F1: 0.1644
+2.Naive Bayes - Precision: 0.7017, Recall: 0.3714, F1: 0.3790
+KNN - Precision: 0.3561, Recall: 0.3336, F1: 0.1963
+3.Naive Bayes - Precision: 0.7021, Recall: 0.3608, F1: 0.3694
+KNN - Precision: 0.1693, Recall: 0.3220, F1: 0.1576
+Naive Bayes - Precision: 0.6189, Recall: 0.3914, F1: 0.4084
+KNN - Precision: 0.1571, Recall: 0.3203, F1: 0.1717
